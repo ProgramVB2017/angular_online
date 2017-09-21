@@ -1,0 +1,30 @@
+.search-users-container {
+    width: 24%;
+    height: 50%;
+    margin: 4% auto;
+    }
+
+.search-users-container input {
+    width: 100%;
+    height: 50px;
+    background-color:  #E5E9E9;
+    border-style: none;
+    margin: 20px 0 0 0;
+    display: block;
+    font-size: 20px;
+    }
+
+.search-users-container a{
+    display: inline-block;
+    width: 30%; 
+    height: 40px;
+    color: #fff;
+    border-style: none;
+    background-color: rgba(16, 16, 155, 0.7);
+    font-size: 25px;
+    margin: 20px 0 0 0;
+    text-decoration: none;
+    text-align: center;
+    padding: 5px 0 0 0;
+   
+}

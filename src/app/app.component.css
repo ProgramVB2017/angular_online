@@ -1,0 +1,21 @@
+
+
+#main-content-holder {
+    width: 100%;
+    height: 900px;
+    background-color:azure;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    background-image: url('/src/assets/media/images/logo-newukmail.png');
+    }
+
+    #main-content-holder h1 {
+        display: block;
+        color: #3149D1;
+        padding: 3% 0 0 9%;
+    }
+
+#main-content-holder h3 {
+    color: #D1314C;
+    padding: 0 0 0 9%;
+    }
